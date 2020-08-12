@@ -1,8 +1,8 @@
 # Chat
-Chat for 2 people using the UDP protocol
+Chat for 2 users writen using the UDP protocol
 
 ## Usage
-You have to run the program with two arguments: IP address or the domain name of  the computer You want to start chat with and nick You want to use (without 3. argument Your name will be set to "NN").
+Program can be run with two arguments: IP address or the domain name of  the computer You want to start chat with and nick You want to use (without 3. argument Your name will be set to "NN").
 
 Example:
 ```
